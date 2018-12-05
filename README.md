@@ -18,12 +18,12 @@ PERFORMANCE OF THIS SOFTWARE.
 Example CardConnect REST Client library and example usage in Java.
 
 Java Requirements: 
-- json-simple 1.1 from: https://code.google.com/p/json-simple/
-- HttpClient 4.3.3 from: https://hc.apache.org/downloads.cgi
- - httpclient-4.3.3.jar
- - httpcore-4.3.2.jar
- - commons-codec-1.6.jar
- - commons-logging-1.3.3.jar)
+* json-simple 1.1 from: https://code.google.com/p/json-simple/
+* HttpClient 4.3.3 from: https://hc.apache.org/downloads.cgi
+  ** httpclient-4.3.3.jar
+ * httpcore-4.3.2.jar
+ * commons-codec-1.6.jar
+ * commons-logging-1.3.3.jar)
 
 To run:
 
