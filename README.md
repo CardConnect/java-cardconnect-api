@@ -1,4 +1,4 @@
-# java-cardconnect-api
+# Java CardConnect API REST Client and Sample
 
 Copyright 2014, CardConnect (http://www.cardconnect.com)
 
