@@ -68,7 +68,7 @@ public class CardConnectRestClient {
 	
 	/**
 	 * Creates a CardConnect REST client
-	 * @param url Base URL to rest service.  Eg: https://sitename.prinpay.com:6443/cardconnect/rest/
+	 * @param url Base URL to rest service.  Eg: https://sitename.cardconnect.com:6443/cardconnect/rest/
 	 * @param username API Username
 	 * @param password API Password
 	 */
