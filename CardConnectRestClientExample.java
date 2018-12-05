@@ -25,7 +25,7 @@ import org.json.simple.JSONObject;
  */
 @SuppressWarnings("unchecked")
 public class CardConnectRestClientExample {
-	private static final String ENDPOINT = "https://sitename.prinpay.com:6443/cardconnect/rest/";
+	private static final String ENDPOINT = "https://sitename.cardconnect.com:6443/cardconnect/rest/";
 	private static final String USERNAME = "username";
 	private static final String PASSWORD = "password123";
 	
